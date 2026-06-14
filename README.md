@@ -1,5 +1,7 @@
 # Personal Budget Buddy
 
+**Live Demo:** [https://personal-budget-buddy-a6ajw4rmq-sahudevansh21-4649s-projects.vercel.app](https://personal-budget-buddy-a6ajw4rmq-sahudevansh21-4649s-projects.vercel.app)
+
 ## Problem
 Many individuals struggle to visualize their daily or weekly spending habits and budget effectively, often leading to overspending or difficulty saving. Existing digital solutions typically require linking bank accounts or complex setups, which can deter users wary of sharing sensitive financial data.
 
